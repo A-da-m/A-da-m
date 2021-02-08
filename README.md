@@ -11,5 +11,11 @@ Passion for Technology and People, Communications Skills, Listening Skills, Soft
 
 JavaScript/TypeScript, React Native, Ionic Framework, ReactJS, Golang, SCSS, NodeJS, PostgresSQL, MongoDB, and MySQL.
 
+
+### Here is a list of my websites (Make sure to also check out my open source projects!)
+- [octii.chat](octii.chat)
+- [tailosive.com](tailosive.com)
+- [points.city](points.city)
+
 #### I'm for hire!
 #### If you are interested or want to contact me, feel free to reach out 👉 adam@atiktech.co 

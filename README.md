@@ -13,9 +13,10 @@ JavaScript/TypeScript, React Native, Ionic Framework, ReactJS, Golang, SCSS, Nod
 
 
 ### Here is a list of my websites (Make sure to also check out my open source projects!)
-- [octii.chat](octii.chat)
-- [tailosive.com](tailosive.com)
-- [points.city](points.city)
+- [octii.chat](https://octii.chat)
+- [tailosive.com](https://tailosive.com)
+- [points.city](https://points.city)
+- [innatical.com](https://innatical.com)
 
 #### I'm for hire!
 #### If you are interested or want to contact me, feel free to reach out 👉 adam@atiktech.co 

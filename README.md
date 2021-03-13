@@ -19,4 +19,4 @@ JavaScript/TypeScript, React Native, Ionic Framework, ReactJS, Golang, SCSS, Nod
 - [innatical.com](https://innatical.com)
 
 #### I'm for hire!
-#### If you are interested or want to contact me, feel free to reach out 👉 adam@atiktech.co 
+#### If you are interested or want to contact me, feel free to reach out 👉 adam@a-da-m.me 

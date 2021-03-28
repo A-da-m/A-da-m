@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a College student seeking a career in Computer Science, more specifically Web Development.
+Co-Founder at @innatical
 
 ### My qualifications include:
 
@@ -9,7 +9,7 @@ Passion for Technology and People, Communications Skills, Listening Skills, Soft
 
 ### I'm experienced in the following languages/frameworks:
 
-JavaScript/TypeScript, React Native, Ionic Framework, ReactJS, Golang, SCSS, NodeJS, PostgresSQL, MongoDB, and MySQL.
+JavaScript/TypeScript, React Native, Ionic Framework, ReactJS, SCSS, NodeJS, PostgresSQL, MongoDB, and MySQL.
 
 
 ### Here is a list of my websites (Make sure to also check out my open source projects!)
@@ -18,5 +18,4 @@ JavaScript/TypeScript, React Native, Ionic Framework, ReactJS, Golang, SCSS, Nod
 - [points.city](https://points.city)
 - [innatical.com](https://innatical.com)
 
-#### I'm for hire!
 #### If you are interested or want to contact me, feel free to reach out 👉 adam@a-da-m.me 

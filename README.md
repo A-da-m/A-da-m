@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Co-Founder at @innatical
+Co-Founder of @innatical
 
 ### My qualifications include:
 

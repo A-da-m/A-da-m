@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Co-Founder of @innatical
+I'm a College student seeking a career in Computer Science, more specifically Web Development.
 
 ### My qualifications include:
 

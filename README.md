@@ -15,7 +15,6 @@ JavaScript/TypeScript, React Native, Ionic Framework, ReactJS, SCSS, NodeJS, Pos
 ### Here is a list of my websites (Make sure to also check out my open source projects!)
 - [points.city](https://points.city)
 - [tailosive.com](https://tailosive.com)
-- [innatical.com](https://innatical.com)
-- [octii.chat](https://octii.chat)
+- [a-da-m.me](https://a-da-m.me)
 
 #### If you are interested or want to contact me, feel free to reach out 👉 adam@a-da-m.me 
